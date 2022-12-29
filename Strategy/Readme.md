@@ -14,3 +14,4 @@ coloque-os em classes separadas, e faça os objetos deles intercambiáveis.**
 
 ### UML
 
+![Stategy1](https://user-images.githubusercontent.com/7238070/209961596-d281e128-b8a1-44af-8c4d-77358b2668f1.jpg)
