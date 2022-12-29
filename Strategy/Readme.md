@@ -1,7 +1,7 @@
 ## O Strategy
 
-**É um padrão de projeto comportamental que permite que você defina uma família de algoritmos,
-coloque-os em classes separadas, e faça os objetos deles intercambiáveis.**
+> É um padrão de projeto comportamental que permite que você defina uma família de algoritmos,
+coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
 
 
 ### Sugestões
